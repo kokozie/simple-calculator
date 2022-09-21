@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+The % and 00 are non functional only added as a design.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
